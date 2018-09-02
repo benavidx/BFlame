@@ -1,0 +1,27 @@
+.no-link, .no-link:hover{
+    text-decoration: none;
+    color:black;
+    cursor: pointer;
+}
+
+.FullBackground{
+    background-color: #039be5;
+    height: 100px;
+    color:white;
+    margin-bottom: 60px;
+}
+.font-slim{
+    font-weight: 100;
+}
+.triangulo-equilatero-bottom-left {
+    position: absolute;
+    right: 0;
+    width: 0;
+    height: 0;
+    border-bottom: 150px solid transparent;
+    border-left: 500px solid transparent;
+    border-right: 280px solid #039be5;
+    border-top: 280px solid #039be5;
+}
+
+
